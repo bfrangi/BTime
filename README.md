@@ -25,6 +25,18 @@ To install *BTime* in a Unix system, follow these steps:
     sudo apt-get install python3-pip
     ```
 
++ Make sure you have `notify-send` installed from `libnotify-bin`.
+
+    ```
+    sudo apt install libnotify-bin
+    ```
+
++ Make sure you have `play` installed from the `sox` package.
+
+    ```
+    sudo apt install sox
+    ```
+
 
 ### Steps
 
